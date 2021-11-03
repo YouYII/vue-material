@@ -1,3 +1,4 @@
+20211103 : remove functional
 <a name="1.0.0-beta-15"></a>
 # [1.0.0-beta-15](https://github.com/vuematerial/vue-material/compare/v1.0.0-beta-14...v1.0.0-beta-15) (2020-08-13)
 
